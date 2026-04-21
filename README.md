@@ -3,7 +3,7 @@
 В этом репозитории будут собраны примеры, написанной мной тестовой документации и автоматических тестов.
 ## 📁 Содержание
 - Manual testing artefacts examples
-- Automatation testing artefacts examples
+- Automation testing artefacts examples
 ## 📁 Структура репозитория
 ```
 manual/
