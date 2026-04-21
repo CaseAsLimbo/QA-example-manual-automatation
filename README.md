@@ -1,6 +1,6 @@
 # QA porfolio examples | Namazov Maksim
 ## 👋 Добро пожаловать в мой QA portfolio repo
-В этом репозитории будут собраны примеры, написанной мной тестовой документации.
+В этом репозитории будут собраны примеры, написанной мной тестовой документации и автоматических тестов.
 ## 📁 Содержание
 - Manual testing artefacts examples
 - Automatation testing artefacts examples
